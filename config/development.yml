@@ -1,0 +1,8 @@
+db:
+  host: localhost
+  username: 'vospay'
+  password: 'postgres'
+  synchronize: true
+
+jwt:
+  secret: 'topSecret51'
